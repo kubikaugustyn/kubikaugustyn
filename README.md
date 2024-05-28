@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="250"/><br>
+  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/><br>
   <a href="https://discord.com/"><img src="https://img.shields.io/badge/HackerKuba2009-gray?logo=discord&style=for-the-badge" /></a>
   <a href="mailto:kubik.augustyn@post.cz"><img src="https://img.shields.io/badge/kubik.augustyn@post.cz-gray?logo=gmail&style=for-the-badge" /></a>
   <br>
