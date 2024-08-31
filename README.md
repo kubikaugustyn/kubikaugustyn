@@ -1,7 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/><br>
-  <a href="https://discord.com/"><img src="https://img.shields.io/badge/HackerKuba2009-gray?logo=discord&style=for-the-badge" /></a>
-  <a href="mailto:kubik.augustyn@post.cz"><img src="https://img.shields.io/badge/kubik.augustyn@post.cz-gray?logo=gmail&style=for-the-badge" /></a>
+<!--   <a href="https://discord.com/"><img src="https://img.shields.io/badge/HackerKuba2009-gray?logo=discord&style=for-the-badge" /></a> -->
+<!--   <a href="mailto:kubik.augustyn@post.cz"><img src="https://img.shields.io/badge/kubik.augustyn@post.cz-gray?logo=gmail&style=for-the-badge" /></a> -->
+  <a href="https://jakub-augustyn.web.app/" target="_blank"><img src="https://img.shields.io/badge/web-jakub--augustyn.web.app-blue?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBpZD0iSW50ZXJmYWNlIC8gRXh0ZXJuYWxfTGluayI+PHBhdGggaWQ9IlZlY3RvciIgZD0iTTEwLjAwMDIgNUg4LjIwMDJDNy4wODAwOSA1IDYuNTE5NjIgNSA2LjA5MTggNS4yMTc5OUM1LjcxNTQ3IDUuNDA5NzMgNS40MDk3MyA1LjcxNTQ3IDUuMjE3OTkgNi4wOTE4QzUgNi41MTk2MiA1IDcuMDgwMDkgNSA4LjIwMDJWMTUuODAwMkM1IDE2LjkyMDMgNSAxNy40ODAxIDUuMjE3OTkgMTcuOTA3OUM1LjQwOTczIDE4LjI4NDIgNS43MTU0NyAxOC41OTA1IDYuMDkxOCAxOC43ODIyQzYuNTE5MiAxOSA3LjA3ODk5IDE5IDguMTk2OTEgMTlIMTUuODAzMUMxNi45MjEgMTkgMTcuNDggMTkgMTcuOTA3NCAxOC43ODIyQzE4LjI4MzcgMTguNTkwNSAxOC41OTA1IDE4LjI4MzkgMTguNzgyMiAxNy45MDc2QzE5IDE3LjQ4MDIgMTkgMTYuOTIxIDE5IDE1LjgwMzFWMTRNMjAgOVY0TTIwIDRIMTVNMjAgNEwxMyAxMSIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvZz48L3N2Zz4=" /></a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=kubikaugustyn&style=flat-square&color=blue" alt=""/>
   <h1>
@@ -12,9 +13,10 @@
 
 ### :man_technologist: About Me:
 I'm Jakub Augustýn, a software developer from the Czech Republic.
-- :telescope: I'm into web development, web security, hardware hacking.
+- :telescope: I'm into web frontend and backend development, web security, low level systems, hardware and software hacking.
 - :seedling: Learning at high school.
-- :mailbox:How to reach me: [![Discord](https://img.shields.io/badge/HackerKuba2009-gray?logo=discord&style=flat)](https://discord.com/) [![E-Mail](https://img.shields.io/badge/kubik.augustyn@post.cz-gray?logo=gmail&style=flat)](mailto:kubik.augustyn@post.cz)
+<!-- - :mailbox:How to reach me: [![Discord](https://img.shields.io/badge/HackerKuba2009-gray?logo=discord&style=flat)](https://discord.com/) [![E-Mail](https://img.shields.io/badge/kubik.augustyn@post.cz-gray?logo=gmail&style=flat)](mailto:kubik.augustyn@post.cz) -->
+- :mailbox:How to reach me: <a href="https://jakub-augustyn.web.app/contacts" target="_blank"><img src="https://img.shields.io/badge/contacts-jakub--augustyn.web.app-blue?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBpZD0iSW50ZXJmYWNlIC8gRXh0ZXJuYWxfTGluayI+PHBhdGggaWQ9IlZlY3RvciIgZD0iTTEwLjAwMDIgNUg4LjIwMDJDNy4wODAwOSA1IDYuNTE5NjIgNSA2LjA5MTggNS4yMTc5OUM1LjcxNTQ3IDUuNDA5NzMgNS40MDk3MyA1LjcxNTQ3IDUuMjE3OTkgNi4wOTE4QzUgNi41MTk2MiA1IDcuMDgwMDkgNSA4LjIwMDJWMTUuODAwMkM1IDE2LjkyMDMgNSAxNy40ODAxIDUuMjE3OTkgMTcuOTA3OUM1LjQwOTczIDE4LjI4NDIgNS43MTU0NyAxOC41OTA1IDYuMDkxOCAxOC43ODIyQzYuNTE5MiAxOSA3LjA3ODk5IDE5IDguMTk2OTEgMTlIMTUuODAzMUMxNi45MjEgMTkgMTcuNDggMTkgMTcuOTA3NCAxOC43ODIyQzE4LjI4MzcgMTguNTkwNSAxOC41OTA1IDE4LjI4MzkgMTguNzgyMiAxNy45MDc2QzE5IDE3LjQ4MDIgMTkgMTYuOTIxIDE5IDE1LjgwMzFWMTRNMjAgOVY0TTIwIDRIMTVNMjAgNEwxMyAxMSIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvZz48L3N2Zz4=" /></a>
 
 ### :hammer_and_wrench: Languages and Tools:
 <div>
@@ -44,4 +46,4 @@ IDEs I use:
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kubikaugustyn&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubikaugustyn&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubikaugustyn&theme=vision-friendly-dark&exclude_repo=diamondRush,DiamondRushSource&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
